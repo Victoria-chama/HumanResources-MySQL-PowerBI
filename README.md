@@ -1,1 +1,1 @@
-# HumanResources-MySQL-PowerBI
+# HumanResources-Dashboard-MySQL-PowerBI
